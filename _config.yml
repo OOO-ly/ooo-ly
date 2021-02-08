@@ -1,18 +1,2 @@
 theme: jekyll-theme-slate
 
-$ jekyll serve -lDI --limit-posts 1
-Configuration file: ooo-ly.github.io/ooo-ly/_config.yml
-            Source: ooo-ly.github.io
-       Destination: ooo-ly.github.io
- Incremental build: enabled
-      Generating...
-       Jekyll Feed: Generating feed for posts
-                    done in 0.657 seconds.
- Auto-regeneration: enabled for ooo-ly.github.io
-LiveReload address: http://127.0.0.1:35729
-    Server address: http://127.0.0.1:4000/
-  Server running... press ctrl-c to stop.
-      Regenerating: 1 file(s) changed at 2019-04-07 14:25:31
-                    _posts/2019/2019-04-07-jekyll-속도-올리기.md
-       Jekyll Feed: Generating feed for posts
-                    ...done in 0.363427 seconds.
