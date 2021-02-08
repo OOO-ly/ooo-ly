@@ -3,10 +3,11 @@
 > I  write my TIL history here
 
 ## **TIL list**
-### html
+### HTML
   - [Day 1]()
   - [Day 2]()
-### php
+
+### PHP
   - [Day 1]()
   - [Day 2]()
   - [Day 3]()
@@ -21,4 +22,3 @@
   - [Day 5]()
 
 
-  
