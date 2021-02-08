@@ -1,7 +1,7 @@
 theme: jekyll-theme-slate
 
 $ jekyll serve -lDI --limit-posts 1
-Configuration file: ooo-ly.github.io/ooo-ly//_config.yml
+Configuration file: ooo-ly.github.io/ooo-ly/_config.yml
             Source: ooo-ly.github.io
        Destination: ooo-ly.github.io
  Incremental build: enabled
