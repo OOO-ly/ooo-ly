@@ -4,3 +4,5 @@ title: O3 Git pages
 url: https://ooo-ly.github.io/
 branch: main
 ---
+
+{% include footer.md %}
