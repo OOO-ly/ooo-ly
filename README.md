@@ -24,7 +24,7 @@
   - [Day 2 - 뛰놀자-5일차-PHP&MySQL](./뛰놀자-5일차-PHP&MySQL.md)
   - [Day 3 - 뛰놀자-6일차-PHP&MySQL](./뛰놀자-6일차-PHP&MySQL.md)
   - [Day 4 - 뛰놀자-7일차-PHP&MySQL](./뛰놀자-7일차-PHP&MySQL.md)
-)
+
 
 ### CSS
  - [Day 1 - 뛰놀자-8일차-CSS](./뛰놀자-8일차-CSS.md)
