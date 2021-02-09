@@ -1,4 +1,6 @@
 theme: jekyll-theme-slate
 layout: post
-title: [O3 Git pages](https://ooo-ly.github.io/ooo-ly/)
+title: O3 Git pages
+url: https://ooo-ly.github.io/ooo-ly/
+branch: main
 ---
