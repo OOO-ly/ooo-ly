@@ -1,8 +1,6 @@
 # theme: jekyll-theme-slate
 layout: default
 title: O3 Git pages
-url: https://ooo-ly.github.io/
-baseurl: https://ooo-ly.github.io//ooo-ly/
 branch: main
 ---
 
