@@ -8,7 +8,7 @@
 - [vs code](https://code.visualstudio.com/)
 - [bitnami wamp](https://bitnami.com/stack/wamp/installer)
 ## 보완사항
-- git-cli 를 통한 터미널로 git 접근
+- ~git-cli 를 통한 터미널로 git 접근~
 - mac 에서의 환경 설정 별도로 알아야 함
 
 
