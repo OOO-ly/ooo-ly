@@ -1,0 +1,91 @@
+{
+  "main": {
+    "id": "ed65bf45b9b6e554",
+    "type": "split",
+    "children": [
+      {
+        "id": "d44764d3aedb56d2",
+        "type": "leaf",
+        "active": true,
+        "state": {
+          "type": "graph",
+          "state": {}
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "28b2e21271060773",
+    "type": "split",
+    "children": [
+      {
+        "id": "e08ce51b0615b03b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "03438f62acfa41de",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "dc3d70a0f8764bc4",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "f1c4aa7875707810",
+    "type": "split",
+    "children": [
+      {
+        "id": "0a835553a5876252",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ed4b6ceb4b927585",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "lastOpenFiles": [
+    "ooo-ly/README.md",
+    "뛰놀자-4일차-PHP&MySQL.md",
+    "뛰놀자--2일차-PHP-튜토리얼.md",
+    "뛰놀자--1일차-PHP-튜토리얼.md",
+    "ooo-ly/서브-html-2일차.md"
+  ]
+}
