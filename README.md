@@ -35,4 +35,5 @@
  - [Day 3 - 뛰놀자-10일차-CSS,JS](./뛰놀자-10일차-CSS,JS.md)
  - [Day 4 - 뛰놀자-11일차-CSS,JS](./뛰놀자-11일차-CSS,JS.md)
  - [Day 5 - 뛰놀자-12일차-CSS,JS](./뛰놀자-12일차-CSS,JS.md)
+ - [Day 6 - 뛰놀자-13일차-CSS,JS](./뛰놀자-13일차-CSS,JS.md)
 
