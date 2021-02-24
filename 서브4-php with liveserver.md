@@ -18,7 +18,7 @@
   - Live Server Address : live server에서 사용하는 주소 와 포트번호( http://localhost:5500)
   - vscode에서 go-live 버튼으로 live server 실행
   - 브라우저에서 live server 주소로 접속
-
+P
 
 - 프록시 설정
 ```json
