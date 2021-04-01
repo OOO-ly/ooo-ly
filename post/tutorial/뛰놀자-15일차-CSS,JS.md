@@ -1,6 +1,6 @@
 # 
 
-![타임라인_2월](./_img/timeline_2020_feb.png)
+![타임라인_2월](_img/timeline_2020_feb.png)
 
 ## 타임라인 확인
 

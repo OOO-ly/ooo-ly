@@ -1,7 +1,7 @@
 # contenteditable 이용한 create 구현 / a href -> form post 이전
 
 
-![타임라인_2월](./_img/timeline_2020_feb.png)
+![타임라인_2월](_img/timeline_2020_feb.png)
 
 ## 타임라인 확인
 - 웹기획 : 추가적인 modal, 세션활동 등으로 공수 추가, dropdown의 공수가 낮아 추가함.
