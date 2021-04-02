@@ -40,9 +40,9 @@
 //태그는 abc 아이디는 #abc 클래스는 .abc 식으로 작성
 //
 document.querySelector('.abc').innerHTML 
-documnet.querySelector('#abc').text
+document.querySelector('#abc').text
 //아래와 같이 변수로 만들 수 있으며
-var temp = documnet.querySelector('button').value // 이 것이 성립되기 위해선 반드시 value가 사용가능한 태그일 것
+var temp = document.querySelector('button').value // 이 것이 성립되기 위해선 반드시 value가 사용가능한 태그일 것
 
 fucntion test(self){
     self.value = 'hello';// 이벤트를 트리거로 실행한 이 element를 self로 적용된다
