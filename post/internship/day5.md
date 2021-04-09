@@ -32,15 +32,18 @@
 - 비동기를 통해 기존 기능들 개선 가능 할 것으로 보임 (수정 버튼, work_flag를 통한 컨트롤, 삭제 비밀번호 요청, selectbox )
 
 - [ajax사용을 위해 JQuery 습득 진행](https://api.jquery.com/jquery.ajax/)
+
+
 ```javascript
 
 // $.ajax는 옵션에 따라 렌더, 쿼리 요청 둘다 가능하지만 보통 ajax는 json 요청을 하는것으로 쓰는 듯하다 
 //여기서 말하는 서버는 말그대로 데이터를 요청할 서버다 특정 페이지가 될 수 있고 쿼리 실행 control소스가 될 수 있다.
-$.ajax({ 
-url :"데이터를 가져오거나 렌더를 요청할 서버 url"
-data : {author : "첫게시자"} //서버(URL)에 전달할 데이터 
-type: "POST" // HTTP METHOD 보안 등을 고려해 사용하면된다. 비동기 이므로 URL이 변경될지는 테스트 필요
-datatype :"json" //서버에서 받을 데이터의 타입
+
+    $.ajax({ 
+    url :"데이터를 가져오거나 렌더를 요청할 서버 url"
+    data : {author : "첫게시자"} //서버(URL)에 전달할 데이터 
+    type: "POST" // HTTP METHOD 보안 등을 고려해 사용하면된다. 비동기 이므로 URL이 변경될지는 테스트 필요
+    datatype :"json" //서버에서 받을 데이터의 타입
 
     //데이터를 받았는지 여부에 따라 state를 확인 할 수있다.  각 스테이트는 콜백을 인자로 받아 해당 state일 때 해당 메소드를 실행한다.
     .done(function(){ // 서버에서 성공적으로 데이터를 받음
