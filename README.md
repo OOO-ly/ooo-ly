@@ -6,7 +6,7 @@
   - [Day - 4 서버에서 php 게시판 제작](post/internship/day4.md)
   - [Day -  5 서버에서 php 게시판 제작 - 잠시 비동기 + git](post/internship/day5.md)
   - [Day - 6 서버에서 php 게시판 제작 - git의 대한 필요성 대두](post/internship/day6.md)
-    - [Day - 7 git...gitlab..permision denied...](post/internship/day7.md)
+  - [Day - 7 git...gitlab..permision denied...](post/internship/day7.md)
 ## 뛰놀자 실습 블로그(2020 12 ~ 2021 03)
   [뛰놀자-실습 블로그-PHP&MySQL](ttinolja_tutorial.md)
 
