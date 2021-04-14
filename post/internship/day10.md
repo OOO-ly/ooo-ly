@@ -52,7 +52,7 @@
 
 - jquery를 이용한 비동기 기능 구현 중 (리스트 박스) 
 
-      ```javascript
+```javascript
 
       $("select[name='city_cd']").change(function(){
 
@@ -98,5 +98,5 @@
 
 </script>
 
-      ```
+```
 - 값을 가져오고 핸들링하는 것은 문제 없으나 table row를 index를 움직이는 과정에서 parentNode ,  rowIndex 등의 기능을 사용하게됨
