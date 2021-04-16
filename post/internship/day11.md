@@ -14,16 +14,16 @@
        -[ ] select box 비동기 : 진행 중.......................
        -[ ] 체크박스 의 따른 삭제
        -[ ] 비동기 페이징 : 진행 중
-       - 기존 소스를 불러옴 ( 회원가입, 삭제, 회원 관리 및 권한 별 기능 )
+       - 기존 소스를 불러옴 ( 회원가입, 삭제, 회원 관리 및 권한 별 기능 ,카카오 map api )
 
  - sumi : 
 
-        - 게시판 ver1
-        - [ ]  이미지 업로드
-        - [ ]  로그인 / 회원가입 css
-        - [ ]  alert/페이지이동 Q
-        - [x]  관리자 로그인 시 수정/삭제 권한 주기 → _common.php에 저장
-        - [x]  삭제 시 경고창으로 확인 → confirm함수
+       - 게시판 ver1
+       - [x]  이미지 업로드  → 권한 문제
+       - [ ]  로그인 / 회원가입 css
+       - [x]  alert/페이지이동 Q  → location.href
+       - [x]  관리자 로그인 시 수정/삭제 권한 주기 → _common.php에 저장
+       - [x]  삭제 시 경고창으로 확인 → confirm함수
 
  - dh :
 
@@ -48,7 +48,10 @@
 
 ```javascript
 
-
+                     // 정규식을 이용한 생성된 ID의 idx 숫자 가져오기
+                    let regex = /[^0-9]/g;
+                    let test = this.getAttribute('id'); // 미리 생서된 해당 orw의 id 정규식을 통해 리플레이스 
+                    let result = test.replace(regex, "");
 
 ```
 - 
